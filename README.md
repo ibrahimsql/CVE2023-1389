@@ -132,8 +132,13 @@ Contributions, improvements, and pull requests are welcome. Please open an issue
 ## References
 
 - [CVE-2023-1389 - NVD](https://nvd.nist.gov/vuln/detail/CVE-2023-1389)
-- [Original Advisory / Exploit Details](https://www.bleepingcomputer.com/news/security/tp-link-archer-ax21-routers-under-active-attack-via-new-cve-2023-1389/)
+- [Original Advisory / Exploit Details](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-1389)
 - [Exploit-DB Entry](https://www.exploit-db.com/exploits/)
+
+
+## 📷Screenshot
+![whoami](https://github.com/user-attachments/assets/a4e89a21-919c-4539-a1b1-452da02dadfa)
+
 
 ---
 
